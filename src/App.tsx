@@ -1,8 +1,8 @@
 import { Container } from 'react-bootstrap'
 import { Routes, Route } from 'react-router-dom'
-import { Home } from '../pages/home'
-import { Checkout } from '../pages/checkout'
-import { Navbar } from '../components/navbar'
+import { Home } from './pages/home'
+import { Checkout } from './pages/checkout'
+import { Navbar } from './components/navbar'
 
 function App() {
   return (
