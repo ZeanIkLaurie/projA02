@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom'
 
 export function Navbar() {
     return (
-        <NavBS bg='dark' variant='dark' expand='md'>
+        <NavBS className='mb-3 bg-dark' variant='dark'>
             <Container>
                 <img src='../src/assets/torta-image.png' width='80' height='50'></img>
                 <Nav className='justify-content-end'>

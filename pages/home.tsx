@@ -1,3 +1,5 @@
+import * as ITEMS from '../catalog/items.json'
+
 export function Home() {
-    return <h1>select items</h1>
+  return <h1>hola</h1>
   }
