@@ -1,5 +1,11 @@
+import { Container } from "react-bootstrap"
+import { Routes, Route } from "react-router-dom"
+
 function App() {
-  return <h1>Vite + React</h1>
+  return <Container>
+    <Routes>
+    </Routes>
+  </Container>
 }
 
 export default App
