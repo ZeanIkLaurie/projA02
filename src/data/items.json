@@ -5,25 +5,29 @@
         "price": 8.50,
         "currency": "USD",
         "imgURL": "/imgs/ahogada.jpg"
-    },{
+    },
+    {
         "id": 2,
         "name": "Torta de Chilaquiles",
         "price": 6.90,
         "currency": "USD",
         "imgURL": "/imgs/dechilaquiles.jpg"
-    },{
+    },
+    {
         "id": 3,
         "name": "Torta Cubana",
         "price": 7.50,
         "currency": "USD",
         "imgURL": "/imgs/cubana.jpg"
-    },{
+    },
+    {
         "id": 4,
         "name": "Torta Hawaiana",
         "price": 7.20,
         "currency": "USD",
         "imgURL": "/imgs/hawaiana.jpg"
-    },{
+    },
+    {
         "id": 5,
         "name": "Torta Lagunera",
         "price": 10.99,
